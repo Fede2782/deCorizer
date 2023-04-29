@@ -1,6 +1,6 @@
 id=decorizer
 name=deCorizer (Galaxy A22 5G)
-version=v1.2.0
+version=v1.2.4
 versionCode=12000
 author=fede2782
 description=A module that tries to add missing features of One Ui to Galaxy A22 5G (A226B, OXM, DWC1)
