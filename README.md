@@ -9,10 +9,11 @@ Requiriments:
 These amazing features were created by Samsung and all APKs in this module are official and signed by Samsung
 
 Features Now:
--✅️Continuity Service
--✅️Easy Mode
--✅️Galaxy Buds Auto Switch
--✅️Object/Shadow/Reflection eraser
--✅️New Gestures for calls
--✅️Screen Recorder
--✅️Smart Suggestions and Widget
+- ✅️ Continuity Service
+- ✅️ Easy Mode
+- ✅️ Galaxy Buds Auto Switch
+- ✅️ Object/Shadow/Reflection eraser
+- ✅️ New Gestures for calls
+- ✅️ Screen Recorder
+- ✅️ Smart Suggestions and Widget
+- ✅️ Link To Windows full
