@@ -1,4 +1,4 @@
-deCorizer
+## deCorizer
 
 You can flash this Magisk module at your own risk. I am not responsible for lost warranty, bootloops, lost data, or any other damage to your device.
 
@@ -16,4 +16,13 @@ Features Now:
 - ✅️ New Gestures for calls
 - ✅️ Screen Recorder
 - ✅️ Smart Suggestions and Widget
-- ✅️ Link To Windows full
+- ✅️ Link To Windows full (auto hotspot is broken, I'm working on it)
+
+To be added:
+- ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
+
+Maybe:
+- ❓️ Secure Folder and Knox suite
+- ❓️ Full Video Editor
+- ❓️ Advanced Gallery Features (I'm looking for how to enable Image Clipper)
+- ❓️ Style feature in Photo Editor 
