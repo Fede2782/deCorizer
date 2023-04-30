@@ -18,6 +18,7 @@ Features Now:
 - ✅️ Smart Suggestions and Widget
 - ✅️ Link To Windows full (auto hotspot is broken, I'm working on it)
 - ✅️ Tips app in settings
+- ✅️ Voice recorder transcription
 
 To be added:
 - ❌️ Image/Note tagger by AI
@@ -33,3 +34,5 @@ Maybe:
 - ❓️ Styles feature in Photo Lock Screen
 
 Feel free to contribute if you have some ideas or ways to enable or add these features. 
+
+If you want to test new builds immediatly you can download artifacts from Github actions.
