@@ -19,10 +19,11 @@ Features Now:
 - ✅️ Link To Windows full (auto hotspot is broken, I'm working on it)
 
 To be added:
-- ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
+- ❌️ Image/Note tagger by AI
 
 Maybe:
 - ❓️ Secure Folder and Knox suite
 - ❓️ Full Video Editor
 - ❓️ Advanced Gallery Features (I'm looking for how to enable Image Clipper)
 - ❓️ Style feature in Photo Editor 
+- ❓️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
