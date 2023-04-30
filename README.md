@@ -30,5 +30,6 @@ Maybe:
 - ❓️ Style feature in Photo Editor 
 - ❓️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
 - ❓️ Suspicious Wifi Scan
+- ❓️ Styles feature in Photo Lock Screen
 
 Feel free to contribute if you have some ideas or ways to enable or add these features. 
