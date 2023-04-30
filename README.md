@@ -20,16 +20,16 @@ Features Now:
 - ✅️ Tips app in settings
 - ✅️ Voice recorder transcription
 
-To be added:
+To be added (I'm working on it):
 - ❌️ Image/Note tagger by AI
 - ❌️ Initial Knox implementation
+- ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
+- ❌️ Advanced Gallery Features (I'm looking for how to enable Image Clipper)
 
 Maybe:
 - ❓️ Secure Folder and Knox suite
 - ❓️ Full Video Editor
-- ❓️ Advanced Gallery Features (I'm looking for how to enable Image Clipper)
 - ❓️ Style feature in Photo Editor 
-- ❓️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
 - ❓️ Suspicious Wifi Scan
 - ❓️ Styles feature in Photo Lock Screen
 
