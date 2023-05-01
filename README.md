@@ -8,7 +8,11 @@ Requiriments:
 
 These amazing features were created by Samsung and all APKs in this module are official and signed by Samsung
 
-Features Now:
+# Credits
+- Samsung
+- ShaDisNX255/NcX-S21FE for their amazing work on floating_feature and libs
+
+# Features Now:
 - ✅️ Continuity Service
 - ✅️ Easy Mode
 - ✅️ Galaxy Buds Auto Switch
@@ -20,6 +24,7 @@ Features Now:
 - ✅️ Tips app in settings
 - ✅️ Voice recorder transcription
 - ✅ Camera privacy toggle
+- ✅ Voice Focus (try)
 
 To be added (I'm working on it):
 - ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
