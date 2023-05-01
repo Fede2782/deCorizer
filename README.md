@@ -1,4 +1,4 @@
-## deCorizer
+#deCorizer
 
 You can flash this Magisk module at your own risk. I am not responsible for lost warranty, bootloops, lost data, or any other damage to your device.
 
@@ -8,11 +8,11 @@ Requiriments:
 
 These amazing features were created by Samsung and all APKs in this module are official and signed by Samsung
 
-# Credits
+## Credits
 - Samsung
 - ShaDisNX255/NcX-S21FE for their amazing work on floating_feature and libs
 
-# Features Now:
+## Features Now:
 - ✅️ Continuity Service
 - ✅️ Easy Mode
 - ✅️ Galaxy Buds Auto Switch
