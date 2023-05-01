@@ -17,3 +17,5 @@ libsurfaceutil.camera.samsung.so
 libsecimaging_pdk.camera.samsung.so
 libsecimaging.camera.samsung.so
 libBeauty_v4.camera.samsung.so
+libStride.camera.samsung.so
+libStrideTensorflowLite.camera.samsung.so
