@@ -19,6 +19,7 @@ Features Now:
 - ✅️ Link To Windows full (auto hotspot is broken, I'm working on it)
 - ✅️ Tips app in settings
 - ✅️ Voice recorder transcription
+- ✅ Camera privacy toggle
 
 To be added (I'm working on it):
 - ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
