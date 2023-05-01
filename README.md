@@ -1,4 +1,4 @@
-#deCorizer
+# deCorizer
 
 You can flash this Magisk module at your own risk. I am not responsible for lost warranty, bootloops, lost data, or any other damage to your device.
 
