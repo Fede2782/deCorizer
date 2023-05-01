@@ -24,8 +24,9 @@ These amazing features were created by Samsung and all APKs in this module are o
 - ✅️ Tips app in settings
 - ✅️ Voice recorder transcription
 - ✅ Camera privacy toggle
-- ✅ Voice Focus (may not work or create issues during calls)
+- ✅ Voice Focus (not tested yet)
 - ✅ Galaxy Watch Camera control (not tested)
+- ✅ Elaboration Modes (i don't know if it is effective or not) 
 
 To be added (I'm working on it):
 - ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
