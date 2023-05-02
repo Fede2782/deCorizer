@@ -1,3 +1,0 @@
-libSDKRecognitionOCR.spenocr.samsung.so
-libSDKMoireDetector.spenocr.samsung.so
-libtensorflowlite_c.spenocr.samsung.so
