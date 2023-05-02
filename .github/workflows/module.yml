@@ -69,5 +69,5 @@ jobs:
       - name: Upload module zip
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: "deCorizer-actions"
+          name: "deCorizer-stable"
           path: "deCorizer-v*.zip"
