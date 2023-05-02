@@ -1,8 +1,0 @@
-{
-  "baseTune": "diamond",
-  "version": "1",
-  "set_bv_th": -3.5,
-  "set_bv_min": -1.5,
-  "set_bv_max": -1,
-  "set_face_count": 1
-}
