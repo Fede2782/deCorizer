@@ -1,1 +1,0 @@
-libSDKRecognitionText.spensdk.samsung.so
