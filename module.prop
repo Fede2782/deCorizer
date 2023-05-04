@@ -4,5 +4,5 @@ version=v1.3.8
 versionCode=13080
 author=fede2782
 description=A module that tries to add missing features of One Ui to Galaxy A22 5G (A226B, OXM, DWC1)
-updateJson=https://raw.githubusercontent.com/Fede2782/deCorizer/main/update.json
+updateJson=https://raw.githubusercontent.com/Fede2782/deCorizer/stable/update.json
 
