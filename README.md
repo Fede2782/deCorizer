@@ -25,9 +25,10 @@ These amazing features were created by Samsung and all APKs in this module are o
 - ✅️ Voice recorder transcription
 - ✅ Camera privacy toggle
 - ✅ Voice Focus
-- ✅ Galaxy Watch Camera control (not tested)
-- ✅ Elaboration Modes (i don't know if it is effective or not) 
-- ✅️ Multi-User
+- ✅ Galaxy Watch Camera control 
+- ✅ Elaboration Modes
+- ✅️ Multi User
+- ✅ Multi Control
 
 To be added (I'm working on it):
 - ❌️ Full Samsung Game Suite (launcher, discord, tools, recording, etc)
