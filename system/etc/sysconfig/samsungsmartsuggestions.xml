@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.contacts" />
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.media" />
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.telephony" />
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.scs" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.media" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.providers.telephony" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.scs" />
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.google.android.providers.media.module" />
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.providers.media" />
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.phone" />
@@ -15,11 +15,11 @@
 	<!-- Samsung Notes -->
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.notes" />
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.cmh" />
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.rubin.app" />
-    <!-- Messages -->
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.messaging" />
-    <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.settings" />
-    <!-- Reminder -->
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.rubin.app" />
+        <!-- Messages -->
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.messaging" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.settings" />
+        <!-- Reminder -->
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.reminder" />
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.clockpackage" />
 	<!-- Samsung Internet -->
@@ -57,4 +57,6 @@
 	<allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.app.tips" />
         <allow-association target="com.samsung.android.smartsuggestions" allowed="com.spotify.music" />	
         <allow-association target="com.samsung.android.smartsuggestions" allowed="com.samsung.android.dialer" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.sec.android.app.samsungapps" />
+        <allow-association target="com.samsung.android.smartsuggestions" allowed="com.android.vending" />
 </config>
