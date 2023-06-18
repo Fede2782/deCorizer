@@ -8,6 +8,8 @@ Requiriments:
 
 These amazing features were created by Samsung and all APKs in this module are official and signed by Samsung
 
+# NO MORE FEATURE UPDATES since I switched to A34 5G. I'LL TRY TO MAKE THIS MODULE WORKING WITH NEW SOFTWARE RELEASES 
+
 ## Credits
 - Samsung
 - ShaDisNX255/NcX-S21FE for their amazing work on floating_feature and libs
